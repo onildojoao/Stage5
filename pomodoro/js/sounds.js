@@ -11,9 +11,9 @@ export default function () {
 
   buttonPressAudio.volume = 0.2
 
-  kitchenTimer.volume = 0.02
+  //kitchenTimer.volume = 0.02
 
-  bgAudio.volume = 0.3
+  //bgAudio.volume = 0.3
   bgAudio.loop = true
 
   function pressButton() {
